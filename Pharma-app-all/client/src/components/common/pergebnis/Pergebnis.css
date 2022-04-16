@@ -1,0 +1,38 @@
+.UpLine{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items:flex-start;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: inherit;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    outline: none; 
+    font-size: 45px;
+ 
+}
+
+
+  
+  .P_ElementRes {
+  margin-left: 30px;
+  margin-right: 10px;
+  }
+
+  .P_ElementResS {
+    margin-left: 900px;
+    margin-right: 10px;
+    }
+ .Result1{
+     color: red;
+ }
+ .Result2{
+     color: green;
+ }
+ .BTable{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }

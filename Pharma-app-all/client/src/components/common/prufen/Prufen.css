@@ -1,0 +1,32 @@
+.Prufungsformat{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;   
+    height: auto;
+    padding: 60px;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    
+
+}
+
+.StoffLabel{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.Stoffinput{
+
+margin-right: 20px;
+width:500px;
+background-color: aliceblue;
+font-size: 30px;
+
+}
+.PrufButton{
+    margin-left: 20px;
+    margin-right: 20px;
+    width:200px;
+    font-size: 30px;
+}

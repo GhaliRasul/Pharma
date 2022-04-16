@@ -1,0 +1,66 @@
+
+.Suchen{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;   
+    height: auto;
+    padding: 60px;
+    margin-right: 700px;
+    margin-left: 700px;
+    margin-bottom: 50px;
+    
+   
+   
+}
+.SuchLabel{ 
+margin-left: 20px;
+margin-right: 20px;
+}
+.SuchInput{
+margin-left: 20px;
+margin-right: 20px;
+width:700px;
+background-color: aliceblue;
+font-size: 30px;
+}
+.suchbutton{
+    margin-left: 20px;
+    margin-right: 20px;
+    width:200px;
+    font-size: 30px;
+}
+.nichts{
+font-size: 30px;
+color: red;
+justify-content: center;
+}
+.SearchStoff{ 
+margin-right: 500px;
+margin-left: 500px;
+ font-size: 30px;    
+background-color: aliceblue;
+justify-content: center;
+align-items: center;
+color: black;
+padding: 2px;
+
+
+}
+.ResulBes{
+    font-size: 25px;
+    justify-content: center;
+}
+.result{
+    justify-content: center;
+    display: grid;
+    grid-gap: Auto;
+    grid-template-rows: repeat(1,auto) ;
+    grid-template-columns:repeat(1,85%);
+    grid-auto-flow: row;
+    text-decoration: none;
+}
+    
+      
+        
+

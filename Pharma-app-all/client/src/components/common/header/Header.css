@@ -1,0 +1,46 @@
+
+
+  
+  .header-top__logo {
+    display: flex;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    height: 120px ;
+     background-color: aliceblue;
+  }
+  
+  .header-logo {
+    color: inherit;
+    text-decoration: inherit;
+    font-family: RobotoThin;
+    font-size: 80px;
+   
+  }
+  .header-top__navbar {
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+  }
+ 
+  .header-top__seperator {
+    width: 100%;
+    border: none;
+    height: 2px;
+    margin-top: 2px;
+    background-color: black;
+    margin-left: 30px;
+    margin-right: 50px;
+
+  }
+  .header-top__navigation {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+    margin-right: 200px;
+    margin-bottom: 10px;
+  }
+  

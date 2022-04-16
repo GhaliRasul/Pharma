@@ -1,0 +1,8 @@
+.GesamtListHilf {
+    justify-content: center;
+    display: grid;
+    grid-gap: Auto;
+    grid-template-rows: repeat(1,auto) ;
+    grid-template-columns:repeat(1,85%);
+    grid-auto-flow: row;
+    text-decoration: none;}

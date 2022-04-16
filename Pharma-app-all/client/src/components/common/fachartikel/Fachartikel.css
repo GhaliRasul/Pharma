@@ -1,0 +1,115 @@
+.body{
+    align-items:center;
+
+
+}
+.strBild{
+float:right;
+margin-right: 200px;
+
+
+}
+
+.Stoff{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;   
+    background-color: aliceblue;
+    height: auto;
+    padding: 60px;
+    text-transform: uppercase;
+    margin-right: 700px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+
+}
+.element{
+display: flex;
+justify-content:left;
+margin-left: 40px;
+font-size: 40px;
+font-weight:bold;
+}
+
+.beschreibung2{
+display: flex;
+justify-content: flex-start;
+margin-left: 40px;
+font-size: 35px;
+
+}
+
+.Seperator2 {
+        border: none;
+        height: 2px;
+        margin-bottom: 30px;
+        background-color: white;
+        margin-left: 30px;
+        margin-right: 50px;
+    
+      }
+
+.ReferListe{
+    justify-content: left;
+    float: right;
+   
+    display:block;
+    margin-top: 35px;
+    margin-right: 200px;
+   
+}
+.elementRef{
+    width: 700px;
+    display: flex;
+justify-content:center;
+font-size: 40px;
+font-weight:bold;
+background-color:aliceblue;
+}
+table{
+    width: 700px;
+    font-size: 35px;
+  
+
+}
+table {
+    border-spacing: 0.5rem;
+    border: 2px solid rgb(131, 176, 216);
+  }
+  td {
+    padding: 0.5rem;
+  }
+  
+  td:nth-child(1) { background: hsl(150, 50%, 50%); }
+  td:nth-child(2) { background: hsl(160, 60%, 50%); }
+  td:nth-child(3) { background: hsl(170, 70%, 50%); }
+  td:nth-child(4) { background: hsl(180, 80%, 50%); }
+  td:nth-child(5) { background: hsl(190, 90%, 50%); }
+  td:nth-child(6) { background: hsl(200, 99%, 50%); }
+  td:nth-child(7) { background: hsl(150, 50%, 50%); }
+  td:nth-child(8) { background: hsl(160, 60%, 50%); }
+  td:nth-child(9) { background: hsl(170, 70%, 50%); }
+  td:nth-child(10) { background: hsl(180, 80%, 50%); }
+  td:nth-child(11) { background: hsl(190, 90%, 50%); }
+  td:nth-child(12) { background: hsl(200, 99%, 50%); }
+  td:nth-child(13) { background: hsl(150, 50%, 50%); }
+  td:nth-child(14) { background: hsl(160, 60%, 50%); }
+  td:nth-child(15) { background: hsl(170, 70%, 50%); }
+ td{
+    background: hsl(150, 50%, 50%)
+ }
+ th{
+    background: hsl(180, 10%, 86%);
+ }
+ .literaturTeil{
+     background-color: aliceblue;
+    margin-bottom: 0px;
+    margin-top: 0px;
+ }
+ .EndSeperator{
+     margin-bottom:  0px;
+     margin-left: 10px;
+     background-color: black;
+ }

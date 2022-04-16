@@ -1,0 +1,34 @@
+
+.ArtName{
+    font-size: 40px;    
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 5px;
+    }
+ 
+    
+    .beschreibungArt{
+        font-size: 30px;
+        
+    }
+    .elementArt{
+        text-align: left;
+        font-size: 30px;
+        font-weight: bold;
+        
+    }
+    
+      .GesamtListArt {
+        justify-content: center;
+        display: grid;
+        grid-gap: Auto;
+        grid-template-rows: repeat(1,auto) ;
+        grid-template-columns:repeat(1,85%);
+        grid-auto-flow: row;
+        text-decoration: none;}
+     
+      

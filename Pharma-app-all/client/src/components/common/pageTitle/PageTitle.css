@@ -1,0 +1,12 @@
+.title {
+    font-family:cursive;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;   
+    background-color: aliceblue;
+    height: auto;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding: 60px;
+  }
