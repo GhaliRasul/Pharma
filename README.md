@@ -13,3 +13,11 @@ Durch die Framework ExpressJs wird das Backend realisiert:
 Durch die Framework ReactJs wird das Frontend verwirklicht:
 • JavaScript Synatx extension als Template-Sprache.
 • JSX erlaubt JavaScript-Logik, HTML und CSS in einer React-Komponente
+
+
+you hava to init each file 
+that means 
+npm init -y  
+in server and client 
+then npm start
+first server then client
